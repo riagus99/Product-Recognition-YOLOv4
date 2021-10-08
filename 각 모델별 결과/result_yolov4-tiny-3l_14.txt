@@ -1,0 +1,87 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 7680 K-images (120 Kilo-batches_64) 
+
+ calculation mAP (mean average precision)...
+ Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+ Detection layer: 44 - type = 28 
+
+ detections_count = 7782, unique_truth_count = 4404  
+ rank = 0 of ranks = 7782  rank = 100 of ranks = 7782  rank = 200 of ranks = 7782  rank = 300 of ranks = 7782  rank = 400 of ranks = 7782  rank = 500 of ranks = 7782  rank = 600 of ranks = 7782  rank = 700 of ranks = 7782  rank = 800 of ranks = 7782  rank = 900 of ranks = 7782  rank = 1000 of ranks = 7782  rank = 1100 of ranks = 7782  rank = 1200 of ranks = 7782  rank = 1300 of ranks = 7782  rank = 1400 of ranks = 7782  rank = 1500 of ranks = 7782  rank = 1600 of ranks = 7782  rank = 1700 of ranks = 7782  rank = 1800 of ranks = 7782  rank = 1900 of ranks = 7782  rank = 2000 of ranks = 7782  rank = 2100 of ranks = 7782  rank = 2200 of ranks = 7782  rank = 2300 of ranks = 7782  rank = 2400 of ranks = 7782  rank = 2500 of ranks = 7782  rank = 2600 of ranks = 7782  rank = 2700 of ranks = 7782  rank = 2800 of ranks = 7782  rank = 2900 of ranks = 7782  rank = 3000 of ranks = 7782  rank = 3100 of ranks = 7782  rank = 3200 of ranks = 7782  rank = 3300 of ranks = 7782  rank = 3400 of ranks = 7782  rank = 3500 of ranks = 7782  rank = 3600 of ranks = 7782  rank = 3700 of ranks = 7782  rank = 3800 of ranks = 7782  rank = 3900 of ranks = 7782  rank = 4000 of ranks = 7782  rank = 4100 of ranks = 7782  rank = 4200 of ranks = 7782  rank = 4300 of ranks = 7782  rank = 4400 of ranks = 7782  rank = 4500 of ranks = 7782  rank = 4600 of ranks = 7782  rank = 4700 of ranks = 7782  rank = 4800 of ranks = 7782  rank = 4900 of ranks = 7782  rank = 5000 of ranks = 7782  rank = 5100 of ranks = 7782  rank = 5200 of ranks = 7782  rank = 5300 of ranks = 7782  rank = 5400 of ranks = 7782  rank = 5500 of ranks = 7782  rank = 5600 of ranks = 7782  rank = 5700 of ranks = 7782  rank = 5800 of ranks = 7782  rank = 5900 of ranks = 7782  rank = 6000 of ranks = 7782  rank = 6100 of ranks = 7782  rank = 6200 of ranks = 7782  rank = 6300 of ranks = 7782  rank = 6400 of ranks = 7782  rank = 6500 of ranks = 7782  rank = 6600 of ranks = 7782  rank = 6700 of ranks = 7782  rank = 6800 of ranks = 7782  rank = 6900 of ranks = 7782  rank = 7000 of ranks = 7782  rank = 7100 of ranks = 7782  rank = 7200 of ranks = 7782  rank = 7300 of ranks = 7782  rank = 7400 of ranks = 7782  rank = 7500 of ranks = 7782  rank = 7600 of ranks = 7782  rank = 7700 of ranks = 7782 class_id = 0, name = aunt_jemima_original_syrup, ap = 100.00%   	 (TP = 63, FP = 32) 
+class_id = 1, name = band_aid_clear_strips, ap = 88.89%   	 (TP = 55, FP = 3) 
+class_id = 2, name = bumblebee_albacore, ap = 100.00%   	 (TP = 63, FP = 0) 
+class_id = 3, name = cholula_chipotle_hot_sauce, ap = 100.00%   	 (TP = 52, FP = 10) 
+class_id = 4, name = crayola_24_crayons, ap = 100.00%   	 (TP = 157, FP = 0) 
+class_id = 5, name = hersheys_cocoa , ap = 100.00%   	 (TP = 62, FP = 0) 
+class_id = 6, name = honey_bunches_of_oats_honey_roasted, ap = 98.39%   	 (TP = 61, FP = 0) 
+class_id = 7, name = honey_bunches_of_oats_with_almonds, ap = 100.00%   	 (TP = 62, FP = 5) 
+class_id = 8, name = hunts_sauce, ap = 100.00%   	 (TP = 62, FP = 0) 
+class_id = 9, name = listerine_green, ap = 100.00%   	 (TP = 62, FP = 0) 
+class_id = 10, name = mahatma_rice, ap = 100.00%   	 (TP = 62, FP = 0) 
+class_id = 11, name = white_rain_body_wash, ap = 100.00%   	 (TP = 65, FP = 0) 
+class_id = 12, name = pringles_bbq, ap = 99.83%   	 (TP = 68, FP = 1) 
+class_id = 13, name = cheeze_it, ap = 99.90%   	 (TP = 71, FP = 2) 
+class_id = 14, name = hersheys_bar, ap = 99.72%   	 (TP = 71, FP = 0) 
+class_id = 15, name = redbull, ap = 99.61%   	 (TP = 68, FP = 0) 
+class_id = 16, name = mom_to_mom_sweet_potato_corn_apple, ap = 100.00%   	 (TP = 75, FP = 1) 
+class_id = 17, name = a1_steak_sauce, ap = 98.99%   	 (TP = 75, FP = 6) 
+class_id = 18, name = jif_creamy_peanut_butter, ap = 100.00%   	 (TP = 75, FP = 5) 
+class_id = 19, name = cinnamon_toast_crunch, ap = 100.00%   	 (TP = 75, FP = 0) 
+class_id = 20, name = arm_hammer_baking_soda, ap = 97.98%   	 (TP = 58, FP = 1) 
+class_id = 21, name = dr_pepper, ap = 100.00%   	 (TP = 75, FP = 3) 
+class_id = 22, name = haribo_gold_bears_gummi_candy, ap = 99.08%   	 (TP = 70, FP = 9) 
+class_id = 23, name = bulls_eye_bbq_sauce_original, ap = 99.98%   	 (TP = 74, FP = 1) 
+class_id = 24, name = reeses_pieces, ap = 100.00%   	 (TP = 75, FP = 0) 
+class_id = 25, name = clif_crunch_peanut_butter, ap = 100.00%   	 (TP = 75, FP = 0) 
+class_id = 26, name = mom_to_mom_butternut_squash_pear, ap = 100.00%   	 (TP = 75, FP = 1) 
+class_id = 27, name = pop_tararts_strawberry, ap = 99.93%   	 (TP = 75, FP = 1) 
+class_id = 28, name = quaker_big_chewy_chocolate_chip, ap = 69.12%   	 (TP = 50, FP = 26) 
+class_id = 29, name = spam, ap = 98.04%   	 (TP = 66, FP = 7) 
+class_id = 30, name = coffee_mate_french_vanilla, ap = 100.00%   	 (TP = 73, FP = 0) 
+class_id = 31, name = pepperidge_farm_milk_chocolate_macadamia_cookies, ap = 99.37%   	 (TP = 74, FP = 4) 
+class_id = 32, name = kitkat_king_size, ap = 99.58%   	 (TP = 72, FP = 3) 
+class_id = 33, name = snickers, ap = 72.69%   	 (TP = 44, FP = 11) 
+class_id = 34, name = toblerone_milk_chocolate, ap = 100.00%   	 (TP = 74, FP = 15) 
+class_id = 35, name = clif_z_bar_chocolate_chip, ap = 99.89%   	 (TP = 73, FP = 1) 
+class_id = 36, name = nature_valley_crunchy_oats_n_honey, ap = 100.00%   	 (TP = 75, FP = 9) 
+class_id = 37, name = ritz_crackers, ap = 100.00%   	 (TP = 75, FP = 0) 
+class_id = 38, name = palmolive_orange, ap = 100.00%   	 (TP = 75, FP = 2) 
+class_id = 39, name = crystal_hot_sauce, ap = 94.10%   	 (TP = 64, FP = 3) 
+class_id = 40, name = tapatio_hot_sauce, ap = 79.56%   	 (TP = 49, FP = 3) 
+class_id = 41, name = nabisco_nilla_wafers, ap = 100.00%   	 (TP = 73, FP = 1) 
+class_id = 42, name = pepperidge_farm_milano_cookies_double_chocolate, ap = 99.74%   	 (TP = 72, FP = 2) 
+class_id = 43, name = campbells_chicken_noodle_soup, ap = 100.00%   	 (TP = 73, FP = 0) 
+class_id = 44, name = frappuccino_coffee, ap = 95.89%   	 (TP = 70, FP = 3) 
+class_id = 45, name = chewy_dips_chocolate_chip, ap = 82.17%   	 (TP = 71, FP = 0) 
+class_id = 46, name = chewy_dips_peanut_butter, ap = 98.35%   	 (TP = 64, FP = 2) 
+class_id = 47, name = nature_vally_fruit_and_nut, ap = 100.00%   	 (TP = 73, FP = 1) 
+class_id = 48, name = cheerios, ap = 100.00%   	 (TP = 73, FP = 1) 
+class_id = 49, name = lindt_excellence_cocoa_dark_chocolate, ap = 100.00%   	 (TP = 73, FP = 0) 
+class_id = 50, name = hersheys_symphony, ap = 100.00%   	 (TP = 73, FP = 0) 
+class_id = 51, name = campbells_chunky_classic_chicken_noodle, ap = 100.00%   	 (TP = 74, FP = 0) 
+class_id = 52, name = martinellis_apple_juice, ap = 100.00%   	 (TP = 75, FP = 0) 
+class_id = 53, name = dove_pink, ap = 99.76%   	 (TP = 73, FP = 2) 
+class_id = 54, name = dove_white, ap = 99.09%   	 (TP = 74, FP = 14) 
+class_id = 55, name = david_sunflower_seeds, ap = 99.55%   	 (TP = 68, FP = 12) 
+class_id = 56, name = monster_energy, ap = 97.26%   	 (TP = 65, FP = 1) 
+class_id = 57, name = act_ii_butter_lovers_popcorn, ap = 100.00%   	 (TP = 73, FP = 0) 
+class_id = 58, name = coca_cola_glass_bottle, ap = 99.93%   	 (TP = 72, FP = 0) 
+class_id = 59, name = twix, ap = 99.28%   	 (TP = 74, FP = 8) 
+
+ for conf_thresh = 0.25, precision = 0.95, recall = 0.96, F1-score = 0.95 
+ for conf_thresh = 0.25, TP = 4208, FP = 212, FN = 196, average IoU = 84.15 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.977614, or 97.76 % 
+
+Set -points flag:
+ `-points 101` for MS COCO 
+ `-points 11` for PascalVOC 2007 (uncomment `difficult` in voc.data) 
+ `-points 0` (AUC) for ImageNet, PascalVOC 2010-2012, your custom dataset

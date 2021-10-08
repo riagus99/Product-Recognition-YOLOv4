@@ -1,0 +1,208 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 2, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+
+ seen 64, trained: 6976 K-images (109 Kilo-batches_64) 
+
+ calculation mAP (mean average precision)...
+ Detection layer: 16 - type = 28 
+ Detection layer: 23 - type = 28 
+
+ detections_count = 12245, unique_truth_count = 4404  
+ rank = 0 of ranks = 12245 
+ rank = 100 of ranks = 12245 
+ rank = 200 of ranks = 12245 
+ rank = 300 of ranks = 12245 
+ rank = 400 of ranks = 12245 
+ rank = 500 of ranks = 12245 
+ rank = 600 of ranks = 12245 
+ rank = 700 of ranks = 12245 
+ rank = 800 of ranks = 12245 
+ rank = 900 of ranks = 12245 
+ rank = 1000 of ranks = 12245 
+ rank = 1100 of ranks = 12245 
+ rank = 1200 of ranks = 12245 
+ rank = 1300 of ranks = 12245 
+ rank = 1400 of ranks = 12245 
+ rank = 1500 of ranks = 12245 
+ rank = 1600 of ranks = 12245 
+ rank = 1700 of ranks = 12245 
+ rank = 1800 of ranks = 12245 
+ rank = 1900 of ranks = 12245 
+ rank = 2000 of ranks = 12245 
+ rank = 2100 of ranks = 12245 
+ rank = 2200 of ranks = 12245 
+ rank = 2300 of ranks = 12245 
+ rank = 2400 of ranks = 12245 
+ rank = 2500 of ranks = 12245 
+ rank = 2600 of ranks = 12245 
+ rank = 2700 of ranks = 12245 
+ rank = 2800 of ranks = 12245 
+ rank = 2900 of ranks = 12245 
+ rank = 3000 of ranks = 12245 
+ rank = 3100 of ranks = 12245 
+ rank = 3200 of ranks = 12245 
+ rank = 3300 of ranks = 12245 
+ rank = 3400 of ranks = 12245 
+ rank = 3500 of ranks = 12245 
+ rank = 3600 of ranks = 12245 
+ rank = 3700 of ranks = 12245 
+ rank = 3800 of ranks = 12245 
+ rank = 3900 of ranks = 12245 
+ rank = 4000 of ranks = 12245 
+ rank = 4100 of ranks = 12245 
+ rank = 4200 of ranks = 12245 
+ rank = 4300 of ranks = 12245 
+ rank = 4400 of ranks = 12245 
+ rank = 4500 of ranks = 12245 
+ rank = 4600 of ranks = 12245 
+ rank = 4700 of ranks = 12245 
+ rank = 4800 of ranks = 12245 
+ rank = 4900 of ranks = 12245 
+ rank = 5000 of ranks = 12245 
+ rank = 5100 of ranks = 12245 
+ rank = 5200 of ranks = 12245 
+ rank = 5300 of ranks = 12245 
+ rank = 5400 of ranks = 12245 
+ rank = 5500 of ranks = 12245 
+ rank = 5600 of ranks = 12245 
+ rank = 5700 of ranks = 12245 
+ rank = 5800 of ranks = 12245 
+ rank = 5900 of ranks = 12245 
+ rank = 6000 of ranks = 12245 
+ rank = 6100 of ranks = 12245 
+ rank = 6200 of ranks = 12245 
+ rank = 6300 of ranks = 12245 
+ rank = 6400 of ranks = 12245 
+ rank = 6500 of ranks = 12245 
+ rank = 6600 of ranks = 12245 
+ rank = 6700 of ranks = 12245 
+ rank = 6800 of ranks = 12245 
+ rank = 6900 of ranks = 12245 
+ rank = 7000 of ranks = 12245 
+ rank = 7100 of ranks = 12245 
+ rank = 7200 of ranks = 12245 
+ rank = 7300 of ranks = 12245 
+ rank = 7400 of ranks = 12245 
+ rank = 7500 of ranks = 12245 
+ rank = 7600 of ranks = 12245 
+ rank = 7700 of ranks = 12245 
+ rank = 7800 of ranks = 12245 
+ rank = 7900 of ranks = 12245 
+ rank = 8000 of ranks = 12245 
+ rank = 8100 of ranks = 12245 
+ rank = 8200 of ranks = 12245 
+ rank = 8300 of ranks = 12245 
+ rank = 8400 of ranks = 12245 
+ rank = 8500 of ranks = 12245 
+ rank = 8600 of ranks = 12245 
+ rank = 8700 of ranks = 12245 
+ rank = 8800 of ranks = 12245 
+ rank = 8900 of ranks = 12245 
+ rank = 9000 of ranks = 12245 
+ rank = 9100 of ranks = 12245 
+ rank = 9200 of ranks = 12245 
+ rank = 9300 of ranks = 12245 
+ rank = 9400 of ranks = 12245 
+ rank = 9500 of ranks = 12245 
+ rank = 9600 of ranks = 12245 
+ rank = 9700 of ranks = 12245 
+ rank = 9800 of ranks = 12245 
+ rank = 9900 of ranks = 12245 
+ rank = 10000 of ranks = 12245 
+ rank = 10100 of ranks = 12245 
+ rank = 10200 of ranks = 12245 
+ rank = 10300 of ranks = 12245 
+ rank = 10400 of ranks = 12245 
+ rank = 10500 of ranks = 12245 
+ rank = 10600 of ranks = 12245 
+ rank = 10700 of ranks = 12245 
+ rank = 10800 of ranks = 12245 
+ rank = 10900 of ranks = 12245 
+ rank = 11000 of ranks = 12245 
+ rank = 11100 of ranks = 12245 
+ rank = 11200 of ranks = 12245 
+ rank = 11300 of ranks = 12245 
+ rank = 11400 of ranks = 12245 
+ rank = 11500 of ranks = 12245 
+ rank = 11600 of ranks = 12245 
+ rank = 11700 of ranks = 12245 
+ rank = 11800 of ranks = 12245 
+ rank = 11900 of ranks = 12245 
+ rank = 12000 of ranks = 12245 
+ rank = 12100 of ranks = 12245 
+ rank = 12200 of ranks = 12245 
+class_id = 0, name = aunt_jemima_original_syrup, ap = 95.01%   	 (TP = 57, FP = 17) 
+class_id = 1, name = band_aid_clear_strips, ap = 80.25%   	 (TP = 47, FP = 22) 
+class_id = 2, name = bumblebee_albacore, ap = 100.00%   	 (TP = 63, FP = 1) 
+class_id = 3, name = cholula_chipotle_hot_sauce, ap = 93.34%   	 (TP = 47, FP = 1) 
+class_id = 4, name = crayola_24_crayons, ap = 99.59%   	 (TP = 144, FP = 4) 
+class_id = 5, name = hersheys_cocoa , ap = 97.47%   	 (TP = 58, FP = 2) 
+class_id = 6, name = honey_bunches_of_oats_honey_roasted, ap = 99.22%   	 (TP = 62, FP = 19) 
+class_id = 7, name = honey_bunches_of_oats_with_almonds, ap = 100.00%   	 (TP = 62, FP = 0) 
+class_id = 8, name = hunts_sauce, ap = 99.69%   	 (TP = 61, FP = 1) 
+class_id = 9, name = listerine_green, ap = 100.00%   	 (TP = 61, FP = 2) 
+class_id = 10, name = mahatma_rice, ap = 100.00%   	 (TP = 62, FP = 1) 
+class_id = 11, name = white_rain_body_wash, ap = 91.40%   	 (TP = 55, FP = 1) 
+class_id = 12, name = pringles_bbq, ap = 92.46%   	 (TP = 54, FP = 2) 
+class_id = 13, name = cheeze_it, ap = 100.00%   	 (TP = 71, FP = 0) 
+class_id = 14, name = hersheys_bar, ap = 93.78%   	 (TP = 46, FP = 0) 
+class_id = 15, name = redbull, ap = 76.29%   	 (TP = 49, FP = 17) 
+class_id = 16, name = mom_to_mom_sweet_potato_corn_apple, ap = 96.22%   	 (TP = 51, FP = 1) 
+class_id = 17, name = a1_steak_sauce, ap = 74.45%   	 (TP = 35, FP = 5) 
+class_id = 18, name = jif_creamy_peanut_butter, ap = 89.24%   	 (TP = 53, FP = 37) 
+class_id = 19, name = cinnamon_toast_crunch, ap = 100.00%   	 (TP = 75, FP = 0) 
+class_id = 20, name = arm_hammer_baking_soda, ap = 78.48%   	 (TP = 41, FP = 5) 
+class_id = 21, name = dr_pepper, ap = 99.84%   	 (TP = 74, FP = 1) 
+class_id = 22, name = haribo_gold_bears_gummi_candy, ap = 97.79%   	 (TP = 68, FP = 12) 
+class_id = 23, name = bulls_eye_bbq_sauce_original, ap = 98.58%   	 (TP = 73, FP = 5) 
+class_id = 24, name = reeses_pieces, ap = 99.97%   	 (TP = 74, FP = 1) 
+class_id = 25, name = clif_crunch_peanut_butter, ap = 91.46%   	 (TP = 49, FP = 1) 
+class_id = 26, name = mom_to_mom_butternut_squash_pear, ap = 98.87%   	 (TP = 65, FP = 4) 
+class_id = 27, name = pop_tararts_strawberry, ap = 99.76%   	 (TP = 61, FP = 0) 
+class_id = 28, name = quaker_big_chewy_chocolate_chip, ap = 77.75%   	 (TP = 47, FP = 30) 
+class_id = 29, name = spam, ap = 82.88%   	 (TP = 48, FP = 0) 
+class_id = 30, name = coffee_mate_french_vanilla, ap = 99.24%   	 (TP = 58, FP = 0) 
+class_id = 31, name = pepperidge_farm_milk_chocolate_macadamia_cookies, ap = 96.41%   	 (TP = 51, FP = 3) 
+class_id = 32, name = kitkat_king_size, ap = 96.86%   	 (TP = 70, FP = 7) 
+class_id = 33, name = snickers, ap = 63.96%   	 (TP = 34, FP = 12) 
+class_id = 34, name = toblerone_milk_chocolate, ap = 86.96%   	 (TP = 47, FP = 15) 
+class_id = 35, name = clif_z_bar_chocolate_chip, ap = 97.80%   	 (TP = 71, FP = 3) 
+class_id = 36, name = nature_valley_crunchy_oats_n_honey, ap = 94.55%   	 (TP = 72, FP = 15) 
+class_id = 37, name = ritz_crackers, ap = 98.61%   	 (TP = 73, FP = 4) 
+class_id = 38, name = palmolive_orange, ap = 98.96%   	 (TP = 75, FP = 12) 
+class_id = 39, name = crystal_hot_sauce, ap = 81.07%   	 (TP = 48, FP = 11) 
+class_id = 40, name = tapatio_hot_sauce, ap = 69.59%   	 (TP = 34, FP = 6) 
+class_id = 41, name = nabisco_nilla_wafers, ap = 100.00%   	 (TP = 72, FP = 0) 
+class_id = 42, name = pepperidge_farm_milano_cookies_double_chocolate, ap = 87.46%   	 (TP = 53, FP = 16) 
+class_id = 43, name = campbells_chicken_noodle_soup, ap = 99.31%   	 (TP = 62, FP = 2) 
+class_id = 44, name = frappuccino_coffee, ap = 90.91%   	 (TP = 62, FP = 6) 
+class_id = 45, name = chewy_dips_chocolate_chip, ap = 79.45%   	 (TP = 63, FP = 13) 
+class_id = 46, name = chewy_dips_peanut_butter, ap = 85.11%   	 (TP = 62, FP = 21) 
+class_id = 47, name = nature_vally_fruit_and_nut, ap = 91.28%   	 (TP = 64, FP = 4) 
+class_id = 48, name = cheerios, ap = 100.00%   	 (TP = 73, FP = 0) 
+class_id = 49, name = lindt_excellence_cocoa_dark_chocolate, ap = 96.43%   	 (TP = 64, FP = 8) 
+class_id = 50, name = hersheys_symphony, ap = 96.35%   	 (TP = 61, FP = 3) 
+class_id = 51, name = campbells_chunky_classic_chicken_noodle, ap = 99.25%   	 (TP = 71, FP = 5) 
+class_id = 52, name = martinellis_apple_juice, ap = 98.99%   	 (TP = 75, FP = 5) 
+class_id = 53, name = dove_pink, ap = 99.62%   	 (TP = 71, FP = 0) 
+class_id = 54, name = dove_white, ap = 78.93%   	 (TP = 50, FP = 21) 
+class_id = 55, name = david_sunflower_seeds, ap = 99.94%   	 (TP = 66, FP = 0) 
+class_id = 56, name = monster_energy, ap = 66.11%   	 (TP = 47, FP = 2) 
+class_id = 57, name = act_ii_butter_lovers_popcorn, ap = 99.54%   	 (TP = 75, FP = 6) 
+class_id = 58, name = coca_cola_glass_bottle, ap = 85.11%   	 (TP = 53, FP = 0) 
+class_id = 59, name = twix, ap = 90.35%   	 (TP = 66, FP = 0) 
+
+ for conf_thresh = 0.25, precision = 0.90, recall = 0.83, F1-score = 0.87 
+ for conf_thresh = 0.25, TP = 3656, FP = 392, FN = 748, average IoU = 71.33 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.921993, or 92.20 % 
+
+Set -points flag:
+ `-points 101` for MS COCO 
+ `-points 11` for PascalVOC 2007 (uncomment `difficult` in voc.data) 
+ `-points 0` (AUC) for ImageNet, PascalVOC 2010-2012, your custom dataset
+
+total detection time 6 sec
